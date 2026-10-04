@@ -1,1 +1,1 @@
-Version 4。GitHub Pages 靜態頁。
+Version 6。GitHub Pages 靜態頁。
