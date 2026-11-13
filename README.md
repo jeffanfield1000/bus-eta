@@ -1,9 +1,11 @@
 # 巴士到站
 
-Version 12。GitHub Pages 靜態網站。
+Version 13：表格版正式成為首頁。
 
-- 放大下一班到站時間，集中顯示後續班次。
-- 元朗西鐵＋34 轉乘時間線，區分下車後時間與步行後等候時間。
-- 固定時間表標示；更新失敗保留上次資料、提示過時及支援重試。
+正式網站：https://jeffanfield1000.github.io/bus-eta/
 
-網站：https://jeffanfield1000.github.io/bus-eta/
+舊卡片版：https://jeffanfield1000.github.io/bus-eta/cards/
+
+表格集中顯示路線、目的地、上車站、下一班及後續班次；元朗轉乘保留時間線。更新失敗保留舊資料並提示過時。
+
+此 repo 存放建置後網站檔案。
