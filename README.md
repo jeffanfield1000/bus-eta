@@ -1,7 +1,7 @@
 # 巴士到站
 
-Version 15：所有路線同時顯示，荃灣站及荃灣西改為表格內兩欄，路經以 ✅ 標示，取消篩選按鈕。
+Version 16：屋苑巴士下一班及後續班次統一顯示剩餘分鐘，保留固定時間表及開出時間標示。
 
-正式網站：https://jeffanfield1000.github.io/bus-eta/
+https://jeffanfield1000.github.io/bus-eta/
 
 此 repo 存放建置後網站檔案。
